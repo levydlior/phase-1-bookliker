@@ -15,6 +15,26 @@
         {
           "id": 8,
           "username": "maverick"
+        },
+        {
+          "id": 5,
+          "username": "personWhoLiked"
+        },
+        {
+          "id": 5,
+          "username": "personWhoLiked"
+        },
+        {
+          "id": 5,
+          "username": "personWhoLiked"
+        },
+        {
+          "id": 5,
+          "username": "personWhoLiked"
+        },
+        {
+          "id": 5,
+          "username": "personWhoLiked"
         }
       ]
     },
@@ -98,6 +118,10 @@
         {
           "id": 8,
           "username": "maverick"
+        },
+        {
+          "id": 5,
+          "username": "personWhoLiked"
         }
       ]
     },

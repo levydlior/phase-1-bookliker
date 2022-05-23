@@ -82,3 +82,24 @@ should remove that user from the list of users who have liked the book.
 
 Make a second PATCH request with the updated array of users, removing your user
 from the list. Also remove the user from the DOM.
+likeButton.addEventListener('click', () => {
+       
+
+    //     const updatedArray = [...book.users]
+    //     const newUserLike = {
+    //         id: 5,
+    //         username: "personWhoLiked"
+    //     }
+    //     updatedArray.push(newUserLike)
+        
+       
+    //     fetch(`${booksURL}/${book.id}`, {
+    //         method: 'PATCH',
+    //         headers: {
+    //             'Content-type': 'application/json'
+    //         },
+    //         body: JSON.stringify({
+    //             users: updatedArray})
+    //     }).then(response => response.json())
+    //       .then(console.log(updatedArray))  
+    // })
